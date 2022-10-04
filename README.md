@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
-# KyeongYeong
-
 # introduction
 
+Hello, I'm Lee Kyeong-yeoung.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlru7755)](https://solved.ac/dlru7755/)
+I am studying hard to become an AI researcher.
+
+Later, I want to solve various problems in society by using artificial intelligence.
+
+
+# Education
+
+Graduated from Bachelor of Electrical Engineering in 2014 (Soongsil Univ B.A.)
 
 
  

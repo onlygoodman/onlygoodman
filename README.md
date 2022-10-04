@@ -24,6 +24,8 @@ I am studying hard to become an AI researcher.
 
 Later, I want to solve various problems in society by using artificial intelligence.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlru7755)](https://solved.ac/dlru7755/)
+
 
 # Education
 
